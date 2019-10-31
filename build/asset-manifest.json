@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learn_nce2/static/css/main.b100e6da.chunk.css",
+    "main.js": "/learn_nce2/static/js/main.bfe4fd0a.chunk.js",
+    "main.js.map": "/learn_nce2/static/js/main.bfe4fd0a.chunk.js.map",
+    "runtime-main.js": "/learn_nce2/static/js/runtime-main.fc86e44a.js",
+    "runtime-main.js.map": "/learn_nce2/static/js/runtime-main.fc86e44a.js.map",
+    "static/js/2.e7423fa5.chunk.js": "/learn_nce2/static/js/2.e7423fa5.chunk.js",
+    "static/js/2.e7423fa5.chunk.js.map": "/learn_nce2/static/js/2.e7423fa5.chunk.js.map",
+    "index.html": "/learn_nce2/index.html",
+    "precache-manifest.e2121f2fba6340eb1fc3f12ff4c9246d.js": "/learn_nce2/precache-manifest.e2121f2fba6340eb1fc3f12ff4c9246d.js",
+    "service-worker.js": "/learn_nce2/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/learn_nce2/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/learn_nce2/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc86e44a.js",
+    "static/js/2.e7423fa5.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.bfe4fd0a.chunk.js"
+  ]
+}
